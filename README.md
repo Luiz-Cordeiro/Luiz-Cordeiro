@@ -36,21 +36,8 @@
 ![Python](https://img.shields.io/static/v1?label=Python&message=%20&color=5574e0&logo=python&style=for-the-badge)
 ![React](https://img.shields.io/static/v1?label=React&message=%20&color=13f072&logo=createreactapp&style=for-the-badge)
 
-
-
-
-
-
-
-
-
-
 <hr>
 
-
-
-
-Luiz Felipe Vieira Cordeiro.
 
 <!---
 LuizFelipeVieiraCordeiro/LuizFelipeVieiraCordeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
