@@ -16,7 +16,7 @@
 
 <hr>
 
-<h3><strong>Some tools to archieve my goals 🛠️:</strong></h3>
+<h3><strong>Some tools to achieve my goals 🛠️:</strong></h3>
 
 
 ![HTML](https://img.shields.io/static/v1?label=HTML&message=%20&color=f82f08&logo=html5&style=for-the-badge)
