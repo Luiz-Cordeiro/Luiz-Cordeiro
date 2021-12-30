@@ -1,7 +1,7 @@
 <h1>Hello! ✋</h1>
 
 
-<p>Let me introduce myself, I'm Luiz Felipe Vieira Cordeiro, graduating student in Information Systems by University of São Paulo(USP). My curious instinct push me forward to understand how IT tecnologies can improve our lives, this is the main reason to study data science and programming skills.</p>
+<p>Let me introduce myself, I'm Luiz Felipe Vieira Cordeiro, graduating student in Information Systems by University of São Paulo (USP). My curious instinct push me forward to understand how IT tecnologies can improve our lives, this is the main reason to study data science and programming skills.</p>
 
 <details><summary><b> GitHub's stats :bar_chart:</b></summary>
 
