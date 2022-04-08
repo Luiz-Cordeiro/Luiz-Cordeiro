@@ -9,8 +9,8 @@
 
 <h3><strong>Here's just some stats about my github's activity:</strong></h3>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeVieiraCordeiro&theme=red-green)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LuizFelipeVieiraCordeiro&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Cordeiro&theme=red-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Luiz-Cordeiro&show_icons=true)
 
 </details>
 
