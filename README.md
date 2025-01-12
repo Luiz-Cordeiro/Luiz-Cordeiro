@@ -24,6 +24,7 @@
 ![PostGreeSql](https://img.shields.io/static/v1?label=PostgreSQL&message=%20&color=508af4&logo=postgresql&style=for-the-badge&logoColor=white)
 ![GitHub](https://img.shields.io/static/v1?label=GitHub&message=%20&color=939295&logo=github&style=for-the-badge&logoColor=white)
 ![Java](https://img.shields.io/static/v1?label=Java&message=%20&color=ed510e&logo=java&style=for-the-badge)
+![Python](https://img.shields.io/static/v1?label=Python&message=%20&color=5574e0&logo=python&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/static/v1?label=Visual%20Studio%20Code&message=%20&color=0e6bed&logo=visualstudiocode&style=for-the-badge)
 
 ![C](https://img.shields.io/static/v1?label=C&message=%20&color=8fa4ee&logo=c&style=for-the-badge)
@@ -33,7 +34,6 @@
 <h3><strong>Improving my knowledge in 📖:</strong></h3>
 
 ![Javascript](https://img.shields.io/static/v1?label=Javascript&message=%20&color=f2f70e&logo=javascript&style=for-the-badge)
-![Python](https://img.shields.io/static/v1?label=Python&message=%20&color=5574e0&logo=python&style=for-the-badge)
 ![React](https://img.shields.io/static/v1?label=React&message=%20&color=13f072&logo=createreactapp&style=for-the-badge)
 
 <hr>
